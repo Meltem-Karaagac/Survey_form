@@ -1,2 +1,1 @@
-# sprint-0.clarusway-survey-form
-HTML&amp;CSS type form
+https://meltem-karaagac.github.io/sprint-0.clarusway-survey-form/
